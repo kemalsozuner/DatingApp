@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CSharpWorks/1.0.0": {
+        "runtime": {
+          "CSharpWorks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

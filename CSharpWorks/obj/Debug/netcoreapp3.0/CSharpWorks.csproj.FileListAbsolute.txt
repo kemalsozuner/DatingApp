@@ -1,0 +1,11 @@
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.exe
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.deps.json
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.runtimeconfig.json
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.runtimeconfig.dev.json
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.dll
+C:\Code\CSharpWorks\bin\Debug\netcoreapp3.0\CSharpWorks.pdb
+C:\Code\CSharpWorks\obj\Debug\netcoreapp3.0\CSharpWorks.csprojAssemblyReference.cache
+C:\Code\CSharpWorks\obj\Debug\netcoreapp3.0\CSharpWorks.AssemblyInfoInputs.cache
+C:\Code\CSharpWorks\obj\Debug\netcoreapp3.0\CSharpWorks.AssemblyInfo.cs
+C:\Code\CSharpWorks\obj\Debug\netcoreapp3.0\CSharpWorks.dll
+C:\Code\CSharpWorks\obj\Debug\netcoreapp3.0\CSharpWorks.pdb
